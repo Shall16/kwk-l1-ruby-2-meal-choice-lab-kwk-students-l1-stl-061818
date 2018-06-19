@@ -1,1 +1,1 @@
-def breakfast (
+def meal_choice (breakfast=frosted flakes, 
