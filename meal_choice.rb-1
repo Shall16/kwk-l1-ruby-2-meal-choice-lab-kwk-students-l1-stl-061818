@@ -1,1 +1,2 @@
-def meal_choice (breakfast=frosted flakes, 
+def meal_choice (breakfast="frosted flakes", lunch="grilled cheese", dinner="salmon") 
+puts"#{breakfast
